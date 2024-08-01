@@ -60,7 +60,7 @@ I created an Active Directory for my class using virtual machines and a hypervis
 ## Work Experience
 
 ### Nissan (Yates) | Smyrna, TN
-**Cleaning Operations Supervisor | September 2016 – Present**
+** Supervisor | September 2016 – Present**
 
 - Provides strategic direction and training to achieve team targets, maintaining a high retention rate
 - Manage HR duties including precise record-keeping and 100% accurate timekeeping for periodic payroll
