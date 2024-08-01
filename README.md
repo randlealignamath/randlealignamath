@@ -1,56 +1,42 @@
-# [Randle Alignamath]
+<h1>Hi, I'm Randle!  <a href="https://www.linkedin.com/in/randle-alignamath-583a57111//">Passionate Cybersecurity Enthusiast </a>, <a</a></h1>
+# Welcome to My GitHub Profile!
 
-## Education
+## About Me
 
-- **Tennessee College Of Applied Technology Murfreesboro** | *2023-Current*
-  - Information Technology
+I am passionate about cybersecurity and actively pursuing a career in this dynamic field. With a strong background in IT and a keen interest in network security, I am dedicated to developing and implementing robust security measures to protect valuable data and systems from cyber threats.
 
-- **Middle Tennessee State University** | *2011-2012*
-  - Criminal Justice
+## Current Project
 
-## Technical Skills
+### [SOC/Honeynet in Azure](https://github.com/randlealignamath/Azure-Soc)
 
-- Network Maintenance, Repair, and Troubleshooting
-- Virtualization (Microsoft Azure)
-- Operating Systems: Linux, Ubuntu, Windows 11, Mac OS
-- Software Applications and Hardware Components
-- Windows OS, Microsoft Office 365, VPN, LAN/WAN, Router Configuration
-- Active Directory Management
-- Command Prompt, PowerShell, Bash
-- Wireless Router Optimization
-- CAT6 Assembly
-- Hardware Configurations, Software Installations
-- User Training and Support
+I have recently developed a SOC (Security Operations Center) Honeynet project in Azure. This project demonstrates my skills in setting up and managing a honeynet, detecting potential security breaches, and analyzing attack patterns to strengthen defenses. 
 
-## Work Experience
+- **Project Overview:** A comprehensive guide on creating a SOC and deploying a honeynet in Azure to monitor and analyze malicious activities.
+- **Technologies Used:** Azure, Virtual Networks, Network Security Groups, Virtual Machines, Honeypot Software, Azure Monitor, Azure Sentinel.
+- **Key Features:** 
+  - Deploying virtual networks and machines in Azure
+  - Configuring network security groups and rules
+  - Installing and managing honeypot software
+  - Setting up monitoring, logging, and alerting with Azure Monitor and Azure Sentinel
+  - Analyzing and responding to detected threats
 
-### Nissan (Yates) | Smyrna, TN
-**Cleaning Operations Supervisor** | *September 2016 – Present*
+## Skills and Expertise
 
-- Provided strategic direction and training to achieve team targets, maintaining a high retention rate.
-- Managed HR duties including precise record-keeping and 100% accurate timekeeping for periodic payroll.
-- Collaborated with stakeholders for effective scheduling and planning.
-- Maintained a clean and well-organized plant, ensuring optimal operation of robots, ovens, and manufacturing lines.
+- Network Security
+- Security Operations Center (SOC)
+- Honeypots and Honeynets
+- Cloud Security (Azure)
+- Monitoring and Incident Response
+- Vulnerability Management
+- Linux and Windows Administration
 
-## Core Competencies
+## Connect with Me
 
-- Regulatory Compliance
-- Quality Assurance
-- Manufacturing & Production
-- Team Leadership
-- Staff Development
-- Hiring & Recruitment
-- Safety Regulations
-- Process Improvement
-- Equipment Handling Maintenance
+- [LinkedIn](https://www.linkedin.com/in/randle-alignamath-583a57111/)
+- [GitHub](https://github.com/randlealignamath)
 
-## Skills
+I am eager to connect with professionals in the cybersecurity community and explore opportunities where I can contribute to protecting digital assets and enhancing security measures. Thank you for visiting my profile!
 
-- Microsoft Office 365 Suite
-- Microsoft Azure
 
-## Certificates
+ 
 
-- Microsoft Azure Fundamentals (AZ 900)
-- Google: Foundations of Project Management
-- Pursuing CompTIA Network +
