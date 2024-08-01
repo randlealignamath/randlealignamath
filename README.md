@@ -8,7 +8,7 @@ I am passionate about cybersecurity and actively pursuing a career in this dynam
 
 ## Projects
 
-### [SOC/Honeynet in Azure](https://github.com/randlealignamath/Azure-Soc)
+### [SOC/Honeynet in Azure](https://github.com/randlealignamath/Azure-Soc-.git)
 
 I have recently developed a SOC (Security Operations Center) Honeynet project in Azure. This project demonstrates my skills in setting up and managing a honeynet, detecting potential security breaches, and analyzing attack patterns to strengthen defenses. 
 
